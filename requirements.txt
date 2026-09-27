@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlparse
+langchain
+langchain-core
+langchain-openai
+openai
